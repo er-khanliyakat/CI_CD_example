@@ -4,5 +4,4 @@ def test_login_success():
 
 def test_login_failure():
     assert login("wrongpassword") == "Login failed"
-print("hello")
-print   
+print("hello"
